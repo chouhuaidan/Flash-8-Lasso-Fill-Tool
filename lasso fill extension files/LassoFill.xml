@@ -1,0 +1,3 @@
+<properties>
+<property name="Smoothing" variable="smoothingThreshold" min="0" max="100" defaultValue="0" type="Number"/>
+</properties>

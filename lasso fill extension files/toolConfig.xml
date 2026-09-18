@@ -1,0 +1,23 @@
+<group name = "selection">
+	<tool name = "arrow"/>
+	<tool name = "bezierSelect"/>
+	<tool name = "freeXform"/>
+	<tool name = "fillXform"/>
+	<tool name = "line"/>
+	<tool name = "lasso"/>
+	<tool name = "LassoFill2"/>
+	<tool name = "pen"/>
+	<tool name = "text"/>
+	<tool name = "oval"/>
+	<tool name = "rect" >
+		<tool name = "polystar"/>
+	</tool>
+	<tool name = "pencil"/>
+	<tool name = "brush"/>
+	<tool name = "inkBottle"/>
+	<tool name = "bucket"/>
+	<tool name = "eyeDropper"/>
+	<tool name = "eraser"/>
+	<tool name = "hand"/>
+	<tool name = "magnifier"/>
+</group>
