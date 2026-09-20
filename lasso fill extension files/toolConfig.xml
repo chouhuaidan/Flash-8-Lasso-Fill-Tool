@@ -5,7 +5,7 @@
 	<tool name = "fillXform"/>
 	<tool name = "line"/>
 	<tool name = "lasso"/>
-	<tool name = "LassoFill2"/>
+	<tool name = "LassoFill"/>
 	<tool name = "pen"/>
 	<tool name = "text"/>
 	<tool name = "oval"/>
